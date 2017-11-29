@@ -1,2 +1,2 @@
 # traveling-salesman-problem
-CAUCSE Human ICT Intelligecn : traveling salesman problem
+CAUCSE : traveling salesman problem
